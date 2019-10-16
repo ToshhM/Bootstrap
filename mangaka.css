@@ -1,0 +1,23 @@
+header{
+
+    height: 400px;
+    width:1000px;
+  
+
+
+};
+
+.section1{
+
+height: 500px;
+width: 1000px;
+background-color: yellowgreen;
+}
+
+.section2{
+    
+height: 500px;
+width: 1000px;
+background-color: beige;
+}
+
